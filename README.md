@@ -1,4 +1,5 @@
 ﻿# Product-Laptop-RESTful-API
+ ```javascript
 [
     {
         "id": 5,
@@ -9,3 +10,4 @@
         "imageUrl": "https://images.thinkgroup.vn/unsafe/1000x1000/https://media-api-beta.thinkpro.vn/backend/uploads/product/color_images/2020/9/8/Lenovo-ThinkPad-X1-Carbon-Gen-6th-1.jpg"
     }
 ]
+ ```
